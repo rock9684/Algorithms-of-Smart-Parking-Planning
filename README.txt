@@ -1,3 +1,6 @@
+The study models the smart parking problem as a linear assignment problem and compares different algorithms in terms of total cost and time efficiency. The algorithms studied include greddy, hungarian, differential evolution, genetic algorithm and particle swarm optimization. A breif walkthrough can be found in the presentation.ppt. Detailed problem formulation and restuls can be found in the report.pdf. 
+
+
 ReadMe/UserGuide 
 
 1. Load the Juypter notebook in Google colab
